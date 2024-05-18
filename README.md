@@ -32,4 +32,4 @@ Yêu cầu:
 - Sao chép Source Code của game.
 - Build game và chạy.
 
-# CHÚC CÁC BẠN CHƠI GAME VUI VẺ.
+# CHÚC CÁC BẠN CHƠI GAME VUI VẺ!!! :))
