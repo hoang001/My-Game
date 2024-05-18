@@ -31,3 +31,5 @@ Yêu cầu:
 - Cài đặt trình biên dịch C++: Có thể là Dev C++, Code::Block, Visual Study Code.
 - Sao chép Source Code của game.
 - Build game và chạy.
+
+# CHÚC CÁC BẠN CHƠI GAME VUI VẺ.
