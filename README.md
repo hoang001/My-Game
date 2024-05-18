@@ -1,5 +1,5 @@
-# Giới thiệu:
-- Game xếp hình
+# Giới thiệu trò chơi:
+- Game xếp hình: ARRANGE PUZZLE.
 - Viết bằng ngôn ngữ C++, dùng thư viên SDL2
   Ngôn ngữ: C++ - SDL2.
 
