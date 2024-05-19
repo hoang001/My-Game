@@ -29,7 +29,8 @@ Trò chơi xếp hình cơ bản:
 Yêu cầu:
 - Máy tính có cài đặt thư viện SDL. Bạn có thể tải SDL từ trang web chính thức: https://www.libsdl.org/.
 - Cài đặt trình biên dịch C++: Có thể là Dev C++, Code::Block, Visual Study Code.
-- Sao chép Source Code của game.
-- Build game và chạy.
+Các bước cài đặt:
+-Bước 1: Sao chép Source Code của game lên 
+-Bước 2: Build game và chạy.
 
 # CHÚC CÁC BẠN CHƠI GAME VUI VẺ !!! :))
