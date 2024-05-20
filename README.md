@@ -6,7 +6,7 @@
   
 # Luật chơi:
 Trò chơi xếp hình cơ bản: 
-- Mục tiêu là di chuyển các mảnh ghép để thu về được một ảnh hoàn chỉnh.
+- Bạn cần phải di chuyển các mảnh ghép để thu về được một ảnh hoàn chỉnh.
 - Độ khó của trò chơi sẽ tăng lên qua các vòng.
 - Bạn có tối đa 999 lần di chuyển các mảnh ghép.
 
