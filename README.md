@@ -33,7 +33,8 @@ Yêu cầu:
 
 Các bước cài đặt:
 
--Bước 1: Sao chép Source Code của game lên 
+-Bước 1: Sao chép Source Code của game lên phần mềm IDE.
+
 -Bước 2: Build game và chạy.
 
 # CHÚC CÁC BẠN CHƠI GAME VUI VẺ !!! :))
