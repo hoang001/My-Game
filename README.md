@@ -21,6 +21,7 @@ Trò chơi xếp hình cơ bản:
 
 
 # Tài liệu tham khảo:
+- https://www.youtube.com/watch?v=jUZZC9UXyFs&ab_channel=SonarSystems.
 - https://lazyfoo.net/tutorials/SDL/.
 - https://www.libsdl.org/.
 
