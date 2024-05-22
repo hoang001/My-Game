@@ -28,6 +28,7 @@ Trò chơi xếp hình cơ bản:
 # Cách cài đặt:
 Yêu cầu:
 - Máy tính có cài đặt thư viện SDL. Bạn có thể tải SDL từ trang web chính thức: https://www.libsdl.org/.
+- Hướng dẫn tải và cài đặt thư viện SDL cho máy tính https://www.youtube.com/watch?v=jUZZC9UXyFs&ab_channel=SonarSystems.
 - Cài đặt trình biên dịch C++: Có thể là Dev C++, Code::Block, Visual Study Code.
 
 
